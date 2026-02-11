@@ -1,5 +1,5 @@
 ### Financial-Fraud-Detection-SQL
-Detecting AML (Anti-Money Laundering) patterns and fraudulent transactions using SQL Server (SSMS).
+End-to-end SQL framework for detecting AML red flags (Structuring, Mules, Spikes) in 6M+ banking records. Optimized for RBI compliance reporting.
 **By Sonia| Math & Econ Background**
 
 ## Project Overview
