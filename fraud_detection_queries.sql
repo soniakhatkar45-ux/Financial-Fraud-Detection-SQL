@@ -1,3 +1,10 @@
+/*
+ * PROJECT: Financial Fraud Detection Engine
+ * AUTHOR: Sonia
+ * DATE: February 7, 2026
+ * GOAL: Identify AML (Anti-Money Laundering) patterns using SQL Server (SSMS) 
+ * on the PaySim dataset to flag high-risk transactions for investigation.
+ */
 -- I am looking for 'Smurfing' patterns here. 
 -- Specifically, users trying to dodge the ₹50k PAN reporting limit (Rule 114B).
 -- If a user does this more than 3 times, it is a major red flag for 'Structuring'.
