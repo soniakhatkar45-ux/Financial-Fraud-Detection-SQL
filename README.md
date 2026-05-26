@@ -1,6 +1,7 @@
 # Financial-Fraud-Detection-SQL
 End-to-end SQL framework for detecting AML red flags (Structuring, Mules, Spikes) in 6M+ banking records. Optimized for RBI compliance reporting.
-## **By Sonia| Math & Econ Background**
+
+<img width="1080" height="566" alt="1000268741" src="https://github.com/user-attachments/assets/7be7d375-86d5-4968-b90b-03c1ef36e3cb" />
 
 # Project Overview
 I built this project to demonstrate how SQL can solve real-world banking challenges. Using the PaySim dataset (6M+ records), I applied **RBI compliance logic** to catch suspicious patterns that typical filters might miss.
@@ -37,3 +38,4 @@ This project simulates a real-world AML (Anti-Money Laundering) pipeline, transf
 * **Core Engine:** SQL Server Management Studio (SSMS)
 * **Analytical Logic:** Math-based outlier detection & RBI Regulatory Frameworks.
 * **Visualization:** Translating complex SQL tables into understandable conclusions.
+
